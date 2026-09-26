@@ -11,4 +11,4 @@ Antes de publicar cambios de código en la rama principal:
 3. Actualiza `CHANGELOG.md` y la guía de migración cuando cambie la API pública.
 4. Revisa el resultado de CI en Ubuntu y Windows. El workflow solo compila, prueba y ejecuta la simulación; no empaqueta el SDK.
 
-El nombre objetivo del repositorio GitHub es `typed-decisions-net`. Tras cambiarlo en GitHub, actualiza la URL de `origin` y comprueba que la rama y las etiquetas existentes siguen accesibles. Un tag de Git puede identificar una versión del código fuente, pero no activa ningún flujo de publicación de paquetes.
+El repositorio GitHub es [`adelaserna82/typed-decisions-net`](https://github.com/adelaserna82/typed-decisions-net). Al clonar el repositorio, configura `origin` con esta URL. Las etiquetas históricas siguen disponibles. Un tag de Git puede identificar una versión del código fuente, pero no activa ningún flujo de publicación de paquetes.
